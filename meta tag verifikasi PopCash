@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="ppck-ver" content="5">
-    <meta http-equiv="refresh" content="3;url=https://shrinkme.ink/VideoCall-me" />
+    <meta http-equiv="refresh" content="3;url=https://shrinkme.ink/VideoCall-me">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Connecting to Private Video Call...</title>
     <style>
@@ -20,23 +20,22 @@
         padding: 20px;
       }
       img {
-        max-width: 250px;
-        border-radius: 12px;
+        max-width: 100%;
+        border-radius: 10px;
         margin-bottom: 20px;
       }
-      h2 {
-        margin-bottom: 10px;
-        font-size: 20px;
-      }
-      p {
-        font-size: 16px;
-        color: #ccc;
+      .message {
+        font-size: 18px;
       }
     </style>
   </head>
   <body>
-    <img src="https://i.imgur.com/4ZQZ4Wl.jpg" alt="Private Video Call Girl" />
-    <h2>I'm waiting now dear ❣️</h2>
-    <p>You know what to do...<br />Just stay on this page, connecting to private video call 📞</p>
+    <img src="https://i.ibb.co/4W0HbzY/girl.jpg" alt="Private Video Call">
+    <div class="message">
+      I'm waiting now dear ❣️<br>
+      You know what to do<br>
+      Just tap the link below ⤵️<br><br>
+      <strong>Connecting to Private Video Call...</strong>
+    </div>
   </body>
 </html>
